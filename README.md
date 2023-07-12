@@ -1,16 +1,14 @@
-### Hi there 👋
 
-<!--
-**mateogall0/mateogall0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align='center'>
 
-Here are some ideas to get you started:
+  <h2>Mateo Gallo</h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ![Your Name's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mateogall0&theme=dark)
+
+  ![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=mateogall0&show_icons=true&count_private=true&hide=stars,issues&theme=dark)
+  
+  ![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mateogall0&layout=compact&langs_count=6&theme=dark)
+
+  ![Your Name's Trophies](https://github-profile-trophy.vercel.app/?username=mateogall0&theme=darkhub&row=your-row&column=your-column)
+
+</div>
