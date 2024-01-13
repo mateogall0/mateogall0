@@ -1,7 +1,7 @@
 # Hi there 👋 I am Mateo Gallo
 - 🔭 I’m currently working as a Freelancer developer
 - 🌱 I’m currently learning Machine Learning development at Holberton School
-- 📫 How to reach me: via e-mail mateogallo@gmail.com
+- 📫 How to reach me: via e-mail mateogesede@gmail.com
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
