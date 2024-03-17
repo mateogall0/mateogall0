@@ -48,8 +48,10 @@
 # 📊 Github Stats
 <div align='center'>
 
-  ![Mateo Gallo's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mateogall0&layout=compact&langs_count=6&theme=dark)
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mateogall0&layout=compact&langs_count=7&theme=dark" />
 
   ![Mateo Gallo's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mateogall0&theme=dark)
+
+  ![Mateo Gallo's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mateogall0&layout=compact&langs_count=6&theme=dark)
 
 </div>
