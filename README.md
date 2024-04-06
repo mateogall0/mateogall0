@@ -1,6 +1,5 @@
 # Hi there 👋 I am Mateo Gallo
 - 🔭 I’m currently working as a Freelancer developer
-- 🌱 I’m currently studying Machine Learning development at Holberton School
 - 📫 You can reach me via e-mail: mateogesede@gmail.com
 
 # 💻 Tech Stack
