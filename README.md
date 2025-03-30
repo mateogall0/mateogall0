@@ -1,5 +1,4 @@
 # Hi there 👋 I am Mateo Gallo
-- 🔭 I’m currently working as a Freelancer developer
 - 📫 You can reach me via e-mail: mateogesede@gmail.com
 
 # 💻 Tech Stack
