@@ -1,4 +1,5 @@
 # Hi there 👋 I am Mateo Gallo
+- 👨‍💻 I am currently working as a back-end developer @ Bit-A
 - 📫 You can reach me via e-mail: mateogesede@gmail.com
 
 # 💻 Tech Stack
